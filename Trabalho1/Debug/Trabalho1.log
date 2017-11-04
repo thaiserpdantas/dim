@@ -1,0 +1,3 @@
+﻿  Trabalho1.cpp
+c:\projects\thamires\trabalho1\trabalho1\trabalho1.cpp(40): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Trabalho1.vcxproj -> C:\Projects\Thamires\Trabalho1\Debug\Trabalho1.exe
